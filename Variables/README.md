@@ -4,14 +4,14 @@ Compilation causes errors. Java is a **compiled programming language**, meaning 
 Steps of Java Compilation
 ![stepsofjavacompilation](Images/javacompilationsteps.png)
 
-A **compiler** is a program that translates human-friendly programming languages into other programming languages that computers can execute.
-For example, with a file called Plankton.java, we could compile it with the terminal command:
-`javac Plankton.java`
-A successful compilation produces a .class file: Plankton.class, that we execute with the terminal command:
-java Plankton
-An unsuccessful compilation produces a list of errors. No .class file is made until the errors are corrected and the compile command is run again.
+A **compiler** is a program that translates human-friendly programming languages into other programming languages that computers can execute.<br/>
+For example, with a file called Plankton.java, we could compile it with the terminal command:<br/>
+`javac Plankton.java` <br/>
+A successful compilation produces a .class file: Plankton.class, that we execute with the terminal command:<br/>
+`java Plankton` <br/>
+An unsuccessful compilation produces a list of errors. No .class file is made until the errors are corrected and the compile command is run again. The compiling process catches mistakes before the computer runs our code. 
 
-#Variables
+# Variables
 We store information in variables, named locations in memory.
 Naming a piece of information allows us to use that name later, accessing the information we stored.
 Variables also give context and meaning to the data we’re storing. 
