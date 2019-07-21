@@ -31,10 +31,13 @@ int yearJavaWasCreated;
 yearJavaWasCreated = 1996;`
 
 Data Types:
-*int    
-   *Whole number, int primitive data type that hold positive numbers, negative numbers and zero. No decimals. The int data type allows values between -2,147,483,648 and 2,147,483,647, inclusive.
-     *int age;   int yearCodecademyWasFounded = 2011;
-*double
-   *Double primitive data type can hold decimals plus very small and large numbers. The maximum value is 1.797,693,134,862,315,7 E+308, which is approximately 17 followed by 307 zeros. The minimum value is 4.9 E-324, which is 324 decimal places!
-     *double price = 8.99;
-*boolean
+* int    
+   * Whole number, int primitive data type that hold positive numbers, negative numbers and zero. No decimals. The int data type allows values between -2,147,483,648 and 2,147,483,647, inclusive.
+     * `int age;`   `int yearCodecademyWasFounded = 2011;`
+* double
+   * Double primitive data type can hold decimals plus very small and large numbers. The maximum value is 1.797,693,134,862,315,7 E+308, which is approximately 17 followed by 307 zeros. The minimum value is 4.9 E-324, which is 324 decimal places!
+     * `double price = 8.99;`
+* boolean - true or false. `boolean javaIsACompiledLanguage = true;`
+* char - can hold any character, like a letter, space, or punctuation mark. It must be surrounded by single quotes, '. 
+   * `char punctuation = '!';` `char grade = 'A';`
+* String - object not primitive! `String greeting = "Hello World";`
