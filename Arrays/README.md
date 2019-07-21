@@ -119,7 +119,8 @@ review newsfeedemptyarray.java
 		  public void setFavoriteArticle(int favoriteIndex, String newArticle){
     			favoriteArticles[favoriteIndex] = newArticle;
   		  }
-
+review newsfeedelementbyindex.java
+		
 
 
 
