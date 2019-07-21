@@ -41,3 +41,7 @@ Data Types:
 * char - can hold any character, like a letter, space, or punctuation mark. It must be surrounded by single quotes, '. 
    * `char punctuation = '!';` `char grade = 'A';`
 * String - object not primitive! `String greeting = "Hello World";`
+
+**Static Typing**
+The Java programming language has static typing. Java programs will not compile if a variable is assigned a value of an incorrect type. This is a bug, specifically a type declaration bug. When bugs are not caught at compilation, they interrupt execution of the code by causing runtime errors. The program will crash.
+Java’s static typing helps programmers avoid runtime errors, and thus have much safer code that is free from bugs.
